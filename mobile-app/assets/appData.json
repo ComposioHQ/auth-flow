@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "appName": "Gmail",
+            "logo": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/gmail.svg",
+            "integration_id": "c776f8c5-70b8-4810-b3fc-faecac4d8be1",
+            "auth_type": "OAUTH2"
+        },
+        {
+            "appName": "Shopify",
+            "logo": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/shopify.svg",
+            "integration_id": "8b4069f2-61b0-46df-a1a2-360c1d0cf06f",
+            "auth_type": "API_KEY"
+        }
+    ]
+}
